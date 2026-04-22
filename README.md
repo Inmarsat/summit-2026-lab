@@ -16,7 +16,7 @@
 
 **1. Open the sandbox repo**
 
-Go to the URL shared by the instructor (e.g. `github.com/Inmarsat/summit-2026-sandbox`).
+Go to the URL shared by the instructor (e.g. `github.com/Inmarsat/summit-2026-lab`).
 
 **2. Open github.dev**
 
@@ -114,5 +114,3 @@ Now nothing can go into your repo without a review. That's the loop.
 
 - [GitHub Skills](https://skills.github.com/) — free interactive courses, straight from GitHub
 - [Pro Git book](https://git-scm.com/book/en/v2) — free, comprehensive, works as a reference
-- The `assurance_and_observability_platform` and `cloud-platform-aws-infrastructure` repos — real examples of what a mature git workflow looks like in this organisation
-- This course repo — clone it, improve it, open a PR
