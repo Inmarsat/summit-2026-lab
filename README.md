@@ -9,7 +9,7 @@
 ### What you need
 
 - A browser (Chrome or Firefox)
-- A GitHub account (personal or work)
+- A GitHub account with your **@viasat.com email set as primary** (required to join the Inmarsat org)
 - The sandbox repo URL — shared by the instructor at the start of the session
 
 ### Steps
